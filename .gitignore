@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.env
+chroma_store/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.DS_Store
+.idea/
+.vscode/
