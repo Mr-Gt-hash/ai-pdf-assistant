@@ -1,0 +1,16 @@
+# Core RAG pipeline
+pypdf>=4.0
+sentence-transformers>=2.2
+chromadb>=0.4
+anthropic>=0.39
+
+# API + UI
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+streamlit>=1.33
+requests>=2.31
+
+# Dev/test
+pytest>=7.0
+pytest-cov>=4.0
