@@ -1,4 +1,4 @@
-# 📄 AI PDF Assistant
+# 📄 AI PDF Assistant { A RAG App }
 
 A lightweight, ground-up **RAG (Retrieval-Augmented Generation)** assistant that processes PDF documents to answer questions, generate summaries, extract tables, discover dates, and produce reports.
 
